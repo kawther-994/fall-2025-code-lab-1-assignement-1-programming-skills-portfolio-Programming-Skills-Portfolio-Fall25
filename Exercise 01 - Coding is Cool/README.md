@@ -10,4 +10,3 @@ word2 =
 word3 =
 # Use string concatenation to combine the variables and print the phrase
 _____(_________)
-
